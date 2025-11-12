@@ -1,0 +1,8 @@
+.terraform/
+*.tfstate
+*.tfstate.*
+*.exe
+*.zip
+*.jar
+*.log
+*.backup
